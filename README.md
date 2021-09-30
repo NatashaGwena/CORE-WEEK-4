@@ -23,3 +23,5 @@ Ho: mu₁ = mu₂.
 H1: mu₁ != mu₂
 
 A python notebook and a hypothesis report is linked.
+This is the link to the Hypothesis report
+https://docs.google.com/document/d/1c-0HaBZtxBUjN6kvqeG9pV-tUYpZfUemdbpK1St4oB8/edit
